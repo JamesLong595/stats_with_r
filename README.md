@@ -1,2 +1,1 @@
-# stats_with_r
-Reusable Code from QMB6304 Analytical Methods for Business at USF
+This was a group effort for QMB6304 Analytical Methods for Business at USF. Group members: James Long, Shyam Attiganal, Manoj Remela, Eric Young. The course required completion of several statistical analysis assignments using R. Based on the assignments, James created these templates as guides containing reusable R code to ease future analyses and ensure consistent quality. R Markdown and R Studio were the primary tools.
